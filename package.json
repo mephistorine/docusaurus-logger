@@ -1,0 +1,33 @@
+{
+    "name": "@mephistorine/docusaurus-logger",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "./dist/index.js",
+    "types": "./dist/index.d.ts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mephistorine/docusaurus-logger.git"
+    },
+    "keywords": [
+        "docusaurus"
+    ],
+    "author": "Sam Bulatov <mephistorine@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/mephistorine/docusaurus-logger/issues"
+    },
+    "homepage": "https://github.com/mephistorine/docusaurus-logger#readme",
+    "devDependencies": {
+        "@docusaurus/types": "3.10.1",
+        "@types/node": "24.12.2",
+        "typescript": "6.0.3"
+    },
+    "dependencies": {
+        "picocolors": "1.1.1"
+    }
+}
