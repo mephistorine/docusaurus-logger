@@ -23,7 +23,6 @@
     },
     "homepage": "https://github.com/mephistorine/docusaurus-logger#readme",
     "devDependencies": {
-        "@docusaurus/types": "3.10.1",
         "@types/node": "24.12.2",
         "typescript": "6.0.3"
     },
